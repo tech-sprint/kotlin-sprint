@@ -1,0 +1,3 @@
+rootProject.name = 'kotlin-sprint'
+rootProject.buildFileName = 'build.gradle.kts'
+
